@@ -1,0 +1,2 @@
+All_samples	decouple_score_low	decouple_score_high	decouple_score_other	cor_random_con	high_score_cutoff
+0.773890860585512	0.157251706898188	0.489608643729542	0.614567126138718	0.781294127162253	0.2
